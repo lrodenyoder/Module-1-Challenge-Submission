@@ -6,6 +6,6 @@ This project is designed to be the landing page of a company named Horiseon. The
 
 [Click Here](https://lrodenyoder.github.io/Module-1-Challenge-Submission/) to go the landing page.
 
-```md
-![alt text](/assets/README-images/Screenshot1.png)
-```
+<p>
+  <img src="assets/README-images/Screenshot1.png" width="200" height="240" />
+  </>
